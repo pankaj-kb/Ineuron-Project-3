@@ -1,6 +1,7 @@
 body {
     margin: 0;
     /* padding: 0; */
+    background-color: #F9F6EE;
 }
 .navbar-container, .list, .button-group{
     /* padding: 5px 50px; */
